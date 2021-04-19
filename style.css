@@ -1,0 +1,13 @@
+body{
+    background: url("pizza.jpg");
+    background-position: center top;
+    background-size: 100%;
+    text-align: center;
+}
+input{
+    margin: 20px;
+    font-size: 25px;
+}
+#answer{
+    font-size: 30px;
+}
